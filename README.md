@@ -2,7 +2,7 @@
 
   <img src="public/icons/poodlite-logo.png" alt="Pood Lite Logo" width="96" height="96" />
 
-  # Pood Lite (พูด ไลท์)
+  # Pood Lite
   ### แอปพลิเคชันถอดความเสียงภาษาไทยออฟไลน์ 100% สำหรับ Windows
   **100% Offline Thai Speech-to-Text Desktop Application for Windows**
 
